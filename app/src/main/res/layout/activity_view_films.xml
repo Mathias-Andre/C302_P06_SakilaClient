@@ -15,6 +15,7 @@
         <!-- Without the line above an error will occur-->
 
     <ListView
+        android:id="@+id/lvFilms"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 

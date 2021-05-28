@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 
-public class FilmAdapter  {
+public class FilmAdapter extends ArrayAdapter<Film>{
 
     ArrayList<Film> films;
     private Context context;
