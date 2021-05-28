@@ -12,14 +12,17 @@ public class Category implements Serializable {
     }
 
     public int getId() {
+
         return id;
     }
 
     public void setId(int id) {
+
         this.id = id;
     }
 
     public String getName() {
+
         return name;
     }
 
@@ -29,6 +32,7 @@ public class Category implements Serializable {
 
     @Override
     public String toString() {
+
         return name;//to display in ListView
     }
 }

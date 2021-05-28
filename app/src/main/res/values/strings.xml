@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">C302_P0^_SakilaClient</string>
+    <string name="app_name">C302_P06_SakilaClient</string>
+    <string name="category">test</string>
+    <string name="title">test</string>
+    <string name="year">test</string>
+    <string name="rating">test</string>
 </resources>
